@@ -1,4 +1,5 @@
-# CSS 201 / CSS 202 - UCSD Computational Social Sciences MA Bootcamp
+# CSS 201 / CSS 202
+## UCSD Computational Social Sciences MA Bootcamp
 
 You will find the materials used during the 2023 CSS MA Bootcamp in this repo.
 
